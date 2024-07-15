@@ -1,0 +1,18 @@
+﻿{
+  "api_output_ok": "Success",
+  "api_output_not_ok": "Error/Failed",
+  "process_success": "Processed",
+  "process_not_success": "Not Processed",
+  "api_on_processing": "On Processing",
+  "save_success": "Saved",
+  "save_not_success": "Not Saved",
+  "delete_success": "Deleted",
+  "delete_not_success": "Not Deleted",
+  "update_success": "Updated",
+  "update_not_success": "Not Updated",
+  "output_field_exists": "Output Field Already Exists",
+  "output_field_not_exists": "Output Field Not Exists",
+  "bad_request_format": "Bad Request Format",
+  "convert_reject": "Convert to installment rejected - sub loan already billed",
+  "decision_message": "Dana sudah cair"
+}

@@ -1,12 +1,274 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PROJECT LEARN\\project.learning\\project.learning\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\controllers\\pinjamancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\controllers\\pinjamancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\libs\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\libs\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BACKUP D\\PROJECT OCBC\\SCM\\BE\\new lms\\idc.lms\\CustomTokenProvider\\TokenProviderMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\libs\\lservicelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\libs\\lservicelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\customtokenprovider\\tokenprovidermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\customtokenprovider\\tokenprovidermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\message.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\message.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\project.learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\project.learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\customtokenprovider\\customjwtdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\customtokenprovider\\customjwtdataformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\customtokenprovider\\tokenprovideroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\customtokenprovider\\tokenprovideroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|d:\\project learn\\project.learning\\project.learning\\project.learning\\inmemorycache\\iinmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79D8FC3-4647-409D-BE4A-D1DBC3A13BB1}|project.learning\\project.learning.csproj|solutionrelative:project.learning\\inmemorycache\\iinmemorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Program.cs",
+              "RelativeDocumentMoniker": "project.learning\\Program.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Program.cs",
+              "RelativeToolTip": "project.learning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:32:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PinjamanController.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Controllers\\PinjamanController.cs",
+              "RelativeDocumentMoniker": "project.learning\\Controllers\\PinjamanController.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Controllers\\PinjamanController.cs",
+              "RelativeToolTip": "project.learning\\Controllers\\PinjamanController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:16:28.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "project.learning\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "project.learning\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:03:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lServiceLogs.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Libs\\lServiceLogs.cs",
+              "RelativeDocumentMoniker": "project.learning\\Libs\\lServiceLogs.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Libs\\lServiceLogs.cs",
+              "RelativeToolTip": "project.learning\\Libs\\lServiceLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:01:41.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenProviderMiddleware.cs",
+              "DocumentMoniker": "D:\\BACKUP D\\PROJECT OCBC\\SCM\\BE\\new lms\\idc.lms\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BACKUP D\\PROJECT OCBC\\SCM\\BE\\new lms\\idc.lms\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "ToolTip": "D:\\BACKUP D\\PROJECT OCBC\\SCM\\BE\\new lms\\idc.lms\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\BACKUP D\\PROJECT OCBC\\SCM\\BE\\new lms\\idc.lms\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:59:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbConn.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Libs\\dbConn.cs",
+              "RelativeDocumentMoniker": "project.learning\\Libs\\dbConn.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Libs\\dbConn.cs",
+              "RelativeToolTip": "project.learning\\Libs\\dbConn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:59:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Startup.cs",
+              "RelativeDocumentMoniker": "project.learning\\Startup.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Startup.cs",
+              "RelativeToolTip": "project.learning\\Startup.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:42:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\appsettings.json",
+              "RelativeDocumentMoniker": "project.learning\\appsettings.json",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\appsettings.json",
+              "RelativeToolTip": "project.learning\\appsettings.json",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T08:59:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenProviderMiddleware.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "RelativeDocumentMoniker": "project.learning\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "RelativeToolTip": "project.learning\\CustomTokenProvider\\TokenProviderMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:30:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "message.json",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\message.json",
+              "RelativeDocumentMoniker": "project.learning\\message.json",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\message.json",
+              "RelativeToolTip": "project.learning\\message.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:21:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomJwtDataFormat.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\CustomJwtDataFormat.cs",
+              "RelativeDocumentMoniker": "project.learning\\CustomTokenProvider\\CustomJwtDataFormat.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\CustomJwtDataFormat.cs",
+              "RelativeToolTip": "project.learning\\CustomTokenProvider\\CustomJwtDataFormat.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:30:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenProviderOptions.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\TokenProviderOptions.cs",
+              "RelativeDocumentMoniker": "project.learning\\CustomTokenProvider\\TokenProviderOptions.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\CustomTokenProvider\\TokenProviderOptions.cs",
+              "RelativeToolTip": "project.learning\\CustomTokenProvider\\TokenProviderOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:31:05.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "project.learning",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\project.learning.csproj",
+              "RelativeDocumentMoniker": "project.learning\\project.learning.csproj",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\project.learning.csproj",
+              "RelativeToolTip": "project.learning\\project.learning.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T08:56:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "project.learning\\Startup.Auth.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\Startup.Auth.cs",
+              "RelativeToolTip": "project.learning\\Startup.Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:20:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInMemoryCache.cs",
+              "DocumentMoniker": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\InMemoryCache\\IInMemoryCache.cs",
+              "RelativeDocumentMoniker": "project.learning\\InMemoryCache\\IInMemoryCache.cs",
+              "ToolTip": "D:\\PROJECT LEARN\\project.learning\\project.learning\\project.learning\\InMemoryCache\\IInMemoryCache.cs",
+              "RelativeToolTip": "project.learning\\InMemoryCache\\IInMemoryCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:57:19.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
